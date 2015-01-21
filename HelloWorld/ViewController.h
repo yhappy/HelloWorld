@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UITextFieldDelegate>
-@property (copy, nonatomic ) NSString *userName;
+@interface ViewController : UIViewController
+
 
 @end
 
